@@ -1,0 +1,5 @@
+node_modules/
+docs-src/
+PRIVATE-SECURITY.md
+.env
+*.key
