@@ -17,4 +17,3 @@ Run: `npm install`, then `node repro/<script>.mjs` (Node 22). `repro/_env.mjs` l
 | feedback/09-sdk-position-analytics-do-not-resum-to-bank-equity-to-the-wei.md | Position analytics rows re-sum off by 1-4 wei on 13 of 46 accounts | normal | SDK |
 | feedback/10-sdk-jsdoc-throws-list-is-copy-pasted-boilerplate.md | Same 17 @throws entries copy-pasted on 55 methods | normal | SDK |
 
-`REPORT.md` has the per-item command, one-line actual output and the funding step needed for order-flow testing.
